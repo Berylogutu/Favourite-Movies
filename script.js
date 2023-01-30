@@ -12,9 +12,7 @@ revealEl.forEach(function(btn) {
         if (list) {
             list.classList.toggle('list-item');
 
-            // list.addEventListener('hover', function() {
-            //     list.style.color = 'grey';
-            // });
+            
         }
     });
     
